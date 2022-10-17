@@ -19,5 +19,5 @@
       "~/*": ["packages/*/src"]
     }
   },
-  "include": ["packages/*/src", "packages/*/__tests__"]
+  "include": ["packages/*/src", "packages/*/test"]
 }
